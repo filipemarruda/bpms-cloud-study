@@ -1,0 +1,38 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.8 }
+
+\bibitem[Gerhart 2009]{TatianaEng}
+\abntrefinfo{Gerhart}{GERHART}{2009}
+{GERHART, D. T.~S. T.~E. \emph{Métodos de Pesquisa}. [S.l.]: Editora UFRGS,
+  2009. 32--35~p.}
+
+\bibitem[Gil 1987]{AntonioCarlosGil}
+\abntrefinfo{Gil}{GIL}{1987}
+{GIL, A.~C. \emph{Como Elaborar Projetos de Pesquisa}. [S.l.]: Editora Atlas
+  S.A., 1987. 40--56~p.}
+
+\bibitem[IEEE]{IEEE61012}
+\abntrefinfo{IEEE}{IEEE}{a}
+{IEEE.
+n. 610.12.}
+
+\bibitem[IEEE]{IEEE1471}
+\abntrefinfo{IEEE}{IEEE}{b}
+{IEEE.
+n.~1471.}
+
+\bibitem[INCOSE]{INCOSE200402}
+\abntrefinfo{INCOSE}{INCOSE}{}
+{INCOSE. Incose-tp-2004-004-02.}
+
+\bibitem[UFMG]{EngSisUFMG}
+\abntrefinfo{UFMG}{UFMG}{}
+{UFMG. Site de engeharia de sistemas da ufmg: O que é engenharia de sistemas?
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/sistemas\-.eng\-.ufmg\-.br\-/sistemas\-.php$>$}{http://sistemas.eng.ufmg.br/sistemas.php}.}
+
+\end{thebibliography}

@@ -1,0 +1,86 @@
+1 Patch Control
+
+0
+0
+1
+projeto.tex
+23
+5
+0
+
+projeto.tex
+TeX:UNIX
+420589563 0 -1 7421 -1 7421 75 75 860 331 0 25 36 -1 -1 0 0 6601 -1 -1 6601 1 0 7421 -1   0
+fumec.sty
+TeX:STY:UNIX
+1159154 0 28 1 28 31 125 125 1521 584 0 295 324 -1 -1 0 0 3 0 0 3 1 0 31 28   0
+referencias.bib
+BibTeX:UNIX
+1147890 0 14 1 14 1 0 0 1036 459 0 25 252 -1 -1 0 0 25 0 0 25 1 0 1 14   0
+revisao-literatura.tex
+TeX:UNIX
+1159163 0 -1 164 -1 197 200 200 1236 659 0 403 54 -1 -1 0 0 60 -1 -1 60 1 0 197 -1   0
+introducao.tex
+TeX
+1060859 0 -1 278 -1 277 175 175 1211 634 0 196 90 -1 -1 0 0 60 -1 -1 60 1 0 277 -1   0
+:\fernando\Dropbox\fumec\stricto sensu\ensino\banco de dados\2013-3\programacao.tex
+TeX:UNIX
+269594619 0 -1 7319 -1 7334 125 125 1521 584 0 25 486 -1 -1 0 0 45 -1 -1 45 1 0 7334 -1   0
+:\fernando\Dropbox\fumec\lais\2 em elaboração de projeto de dissertação\modelo-latex\projeto.tex
+TeX:UNIX
+269594619 1 -1 0 -1 10932 50 50 1446 509 0 25 666 -1 -1 0 0 -1 -1 -1 -1 1 0 10932 -1   0
+projeto.aux
+TeX:AUX
+269496306 0 0 1 0 1 125 125 1521 584 0 25 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0   0
+projeto.log
+DATA
+273678578 0 0 1 0 1 150 150 1546 609 1 78 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\cronograma-atividades.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+286371835 2 -1 46 -1 11 225 225 713 685 0 25 18 -1 -1 0 0 10 -1 -1 10 1 0 11 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\refs.bib
+BibTeX:UTF-8:UNIX:UTF-8:UTF-8
+1147890 1 0 46 0 10 100 100 669 880 0 106 0 -1 -1 0 0 41 29 29 41 1 0 10 0   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\contrapartida.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 269 -1 634 50 50 538 510 0 223 180 -1 -1 0 0 10 -1 -1 10 1 0 634 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\relevancia.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 2 -1 7143 -1 7149 150 150 663 616 0 1564 216 -1 -1 0 0 0 -1 -1 0 1 0 7149 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\contribuicoes.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 589 -1 1445 125 125 638 591 0 502 540 -1 -1 0 0 10 -1 -1 10 1 0 1445 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\estrutura.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 5129 -1 5128 75 75 563 535 0 466 288 -1 -1 0 0 10 -1 -1 10 1 0 5128 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\cronograma-fisico.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 2 -1 50 -1 11 25 25 513 485 0 25 18 -1 -1 0 0 10 -1 -1 10 1 0 11 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\instalacoes.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 327 -1 315 0 0 488 460 0 25 162 -1 -1 0 0 10 -1 -1 10 1 0 315 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\equipe.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 1316 -1 1610 200 200 688 660 0 403 252 -1 -1 0 0 10 -1 -1 10 1 0 1610 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\metodologia.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 0 -1 11883 -1 11894 175 175 663 635 0 673 306 -1 -1 0 0 10 -1 -1 10 1 0 11894 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\introducao.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8
+17936379 4 -1 6100 -1 6101 150 150 638 610 0 142 612 -1 -1 0 0 0 -1 -1 0 1 0 6101 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\colaboradores.tex
+TeX
+1060859 0 -1 2882 -1 2881 50 50 1457 560 0 610 576 -1 -1 0 0 10 -1 -1 10 1 0 2881 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2013\projeto\proposal.tex
+TeX:UTF-8:UNIX:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8:UTF-8
+17936379 0 -1 7485 -1 968 0 0 488 460 0 457 396 -1 -1 0 0 14660 -1 -1 14660 1 0 968 -1   0
+:\fernando\Dropbox\propostas\cnpq\universal\2012\proposal.tex
+TeX:UTF-8:UNIX
+286371835 0 -1 2176 -1 2175 150 150 1571 576 0 25 252 -1 -1 0 0 66 -1 -1 66 1 0 2175 -1   0
+
+*projeto.tex
+>
+*introducao
+*revisao-literatura
+*referencias.bib
+<

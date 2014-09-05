@@ -1,0 +1,1009 @@
+@article{Ajila2007,
+annote = {Evaluation and Assessment in Software Engineering EASE06 },
+author = {Ajila, Samuel A. and Wu, Di},
+doi = {10.1016/j.jss.2007.01.011},
+issn = {0164-1212},
+journal = {Journal of Systems and Software},
+number = {9},
+pages = {1517--1529},
+publisher = {Elsevier},
+title = {{Empirical study of the effects of open source adoption on software development economics}},
+url = {http://www.sciencedirect.com/science/article/pii/S0164121207000076},
+volume = {80},
+year = {2007}
+}
+
+@incollection{Ayala2009,
+year={2009},
+isbn={978-3-642-02031-5},
+booktitle={Open Source Ecosystems: Diverse Communities Interacting},
+volume={299},
+series={IFIP Advances in Information and Communication Technology},
+editor={Boldyreff, Cornelia and Crowston, Kevin and Lundell, Björn and Wasserman, AnthonyI.},
+doi={10.1007/978-3-642-02032-2_19},
+title={Challenges of the Open Source Component Marketplace in the Industry},
+url={http://dx.doi.org/10.1007/978-3-642-02032-2_19},
+publisher={Springer Berlin Heidelberg},
+author={Ayala, Claudia and Hauge, Øyvind and Conradi, Reidar and Franch, Xavier and Li, Jingyue and Velle, KetilSandanger},
+pages={213-224}
+}
+
+@article{Ayala2011,
+author = {Ayala, Claudia and Cruzes, Daniela Soares and Hauge, \O yvind and Conradi, Reidar},
+doi = {10.1109/MS.2011.32},
+institution = {Technical University of Catalunya},
+issn = {0740-7459},
+journal = {Software, IEEE},
+number = {2},
+pages = {95--99},
+publisher = {IEEE},
+title = {{Five Facts on the Adoption of Open Source Software}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5720716},
+volume = {28},
+year = {2011}
+}
+
+@incollection{Belle2012,
+author = {Belle, Jean-paul Van and Reed, Mark},
+booktitle = {Open Source Systems: Long-Term Sustainability},
+pages = {304--309},
+publisher = {Springer},
+title = {{OSS Adoption in South Africa : Applying the TOE Model to a Case Study}},
+year = {2012}
+}
+
+@article{Bernroider2013,
+author = {Bernroider, Edward W.N. and Schm\"{o}llerl, Patrick},
+doi = {10.1016/j.ejor.2012.07.025},
+issn = {03772217},
+journal = {European Journal of Operational Research},
+month = jan,
+number = {1},
+pages = {141--153},
+publisher = {Elsevier B.V.},
+title = {{A technological, organisational, and environmental analysis of decision making methodologies and satisfaction in the context of IT induced business transformations}},
+volume = {224},
+year = {2013}
+}
+
+@article{Bonaccorsi2006,
+author = {Bonaccorsi, Andrea and Rossi, Cristina},
+journal = {Knowledge, Technology \& Policy},
+number = {4},
+pages = {40--64},
+publisher = {Winter},
+title = {{Comparing Motivations of Individual Programmers and Firms to Take Part in the Open Source Movement : From Community to Business}},
+volume = {18},
+year = {2006}
+}
+
+@article{Bosch-Rekveldt2011,
+author = {Bosch-Rekveldt, Marian and Jongkind, Yuri and Mooi, Herman and Bakker, Hans and Verbraeck, Alexander},
+doi = {10.1016/j.ijproman.2010.07.008},
+issn = {0263-7863},
+journal = {International Journal of Project Management},
+month = aug,
+number = {6},
+pages = {728--739},
+publisher = {Elsevier Ltd and IPMA},
+title = {{Grasping project complexity in large engineering projects: The TOE (Technical, Organizational and Environmental) framework}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0263786310001122},
+volume = {29},
+year = {2011}
+}
+
+@article{Camara2007,
+author = {Camara, Gilberto and Fonseca, Frederico},
+doi = {10.1002/asi},
+journal = {Journal of the American Society for Information Science and Technology},
+number = {1},
+pages = {121--132},
+publisher = {Wiley Online Library},
+title = {{Information policies and open source software in developing countries}},
+volume = {58},
+year = {2007}
+}
+
+@article{Chau1997,
+  title={Factors affecting the adoption of open systems: an exploratory study},
+  author={Chau, Patrick YK and Tam, Kar Yan},
+  journal={Mis Quarterly},
+  pages={1--24},
+  year={1997},
+  publisher={JSTOR}
+}
+
+@article{Chengalur2010,
+  title={An empirical analysis of the business value of open source infrastructure technologies},
+  author={Chengalur-Smith, Indushobha and Nevo, Saggi and Demertzoglou, Pindaro},
+  journal={Journal of the Association for Information Systems},
+  volume={11},
+  number={11},
+  year={2010}
+}
+
+@online{ComputerEconomics,
+author = {Computer Economics},
+title = {Key Advantage of Open Source is Not Cost Savings},
+url = {http://www.computereconomics.com/article.cfm?id=1043},
+month = {may},
+year = {2005},
+}
+
+@unpublished{Crowston2013,
+author = {Crowston, Kevin and Deltour, Fran\c{c}ois and Jullien, Nicolas},
+booktitle = {AIM},
+institution = {Association Information et Managemen},
+title = {{Open Source Software adoption : a technological innovation perspective}},
+year = {2013}
+}
+
+@inproceedings{Dedrick2003,
+address = {Seatle},
+author = {Dedrick, Jason and West, Joel},
+booktitle = {Proceedings of the workshop on standard making: A critical research frontier for information systems},
+organization = {Seattle, WA},
+pages = {236--257},
+title = {{Why firms adopt open source platforms: a grounded theory of innovation and standards adoption}},
+year = {2003}
+}
+
+@monography{Dipold2005,
+author = {Dipold, Rafael Draghetti},
+pages = {75},
+school = {Universidade Estadual do Oeste do Paran\'{a}},
+title = {{Potencialidade econ\^{o}mica do software livre}},
+type = {Monografia (Bacharelado em Ci{\^e}ncias Econ{\^o}micas)--Centro de Ci{\^e}ncias Sociais, Universidade Estadual do Oeste do Paran{\'a}--Campus de Toledo},
+year = {2005}
+}
+
+@inproceedings{Ellis2009,
+author = {Ellis, Jason and {Van Belle}, Jean-Paul},
+booktitle = {Proceedings of the 2009 Annual Conference of the Southern African Computer Lecturers' Association},
+organization = {ACM},
+pages = {41--49},
+title = {{Open source software adoption by South African MSEs: barriers and enablers}},
+year = {2009}
+}
+
+@article{Fitzgerald2006,
+author = {Fitzgerald, Brian},
+journal = {MIS Quarterly},
+number = {3},
+pages = {587--598},
+title = {{The Transformation of Open Source Software}},
+volume = {30},
+year = {2006}
+}
+
+@misc{Floss2002,
+  author={FLOSS},
+  title={Free/libre and open source software - Survey and study},
+  subtitle={Basics of Open Source Software Markets and Business Models},
+  publisher={Berlecon Research GmbH},
+  year={2002},
+}
+
+@book{Fogel2005,
+author = {Fogel, Karl},
+pages = {1--196},
+year = {2005},
+title = {Producing Open Source Software: How to Run a Successful Free Software Project},
+url = {http://producingoss.com/en/producingoss.pdf}
+}
+
+@article{fonseca2002,
+  title={Metodologia da pesquisa cient{\'\i}fica},
+  author={FONSECA, Jo{\~a}o Jos{\'e} Saraiva da},
+  journal={Curso de Especializa{\c{c}}{\~a}o em Comunidades Virtuais de Aprendizagem--Inform{\'a}tica Educativa. Universidade Estadual do Cear{\'a}},
+  year={2002}
+}
+
+@inproceedings{Franch2013,
+  title={Managing Risk in Open Source Software Adoption},
+  author={Franch, Xavier and Susi, Angelo and Annosi, Maria C and Ayala, Claudia and Glott, Ruediger and Gross, Daniel and Kenett, Ron and Mancinelli, Fabio and Pop Ramsamy, Cedric Thomas and Ameller, David and others},
+  booktitle={Proc. 8th Int. Conf. on Software Engineering and Applications (ICSOFT-EA 2013)},
+  publisher={SciTePress},
+  year={2013}
+}
+
+@article{freitas2000,
+  title={O m{\'e}todo de pesquisa survey},
+  author={Freitas, Henrique and Oliveira, M{\'\i}rian and Saccol, Amarolinda Zanela and Moscarola, Jean},
+  journal={Revista de Administra{\c{c}}{\~a}o},
+  volume={35},
+  number={3},
+  pages={105--112},
+  year={2000}
+}
+
+@techreport{Gartner2009,
+author = {Driver, Mark and Pezzini, Massimo and Drakos, Nikos and Bitterer, Andreas and Friedman, Ted and Maio, Andrea Di and Gootzit, David and Natis, Yefim V and Igou, Bob and Murphy, Thomas E and Knipp, Eric and Silver, Michael A and Jump, Annette and Feinberg, Donald and Govekar, Milind and Haight, Cameron and Maccomascaigh, Mick and Mark, R and Schulte, W and Phelps, John R and Chuba, Mike and Maoz, Michael and Duggan, Jim and Weiss, George J and Scott, Donna and Norton, David and Gammage, Brian and Basso, Monica and Sholler, Daniel and Thompson, Jess},
+institution = {Gartner},
+number = {July},
+title = {{Hype Cycle for Open-Source Software}},
+year = {2009}
+}
+
+@book{Gerhardt2009,
+  title={M{\'e}todos de pesquisa},
+  author={Gerhardt, Tatiana Engel and Silveira, Denise Tolfo},
+  year={2009},
+	publisher={Universidade Federal do Rio Grande do Sul},
+	address={Porto Alegre}
+}
+
+@inproceedings{Glynn2005,
+author = {Glynn, Eugene and Fitzgerald, Brian and Exton, Chris},
+booktitle = {Empirical Software Engineering, 2005. International Symposium on},
+doi = {10.1109/ISESE.2005.1541831},
+isbn = {0780395085},
+organization = {IEEE},
+pages = {10--pp},
+publisher = {IEEE},
+title = {{Commercial adoption of open source software: an empirical study}},
+url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=1541831},
+year = {2005}
+}
+
+@article{Goode2005,
+author = {Goode, Sigi},
+doi = {10.1016/j.im.2004.01.011},
+issn = {03787206},
+journal = {Information \& Management},
+month = jul,
+number = {5},
+pages = {669--681},
+publisher = {ELSEVIER},
+title = {{Something for nothing: management rejection of open source software in Australia’s top firms}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0378720604000783},
+volume = {42},
+year = {2005}
+}
+
+@article{Group2007,
+author = {Group, Software Engineering},
+title = {{Guidelines for performing Systematic Literature Reviews in Software Engineering}},
+year = {2007}
+}
+
+@article{Gwebu2011,
+author = {Gwebu, Kholekile L and Wang, Jing},
+journal = {Decision Support Systems},
+number = {1},
+pages = {220--229},
+publisher = {Elsevier},
+title = {{Adoption of Open Source Software: The role of social identification}},
+volume = {51},
+year = {2011}
+}
+
+@book{Hair2005,
+  title={Fundamentos de m{\'e}todos de pesquisa em administra{\c{c}}{\~a}o},
+  author={Hair Jr, Joseph F and BABIN, Barry and MONEY, Arthur H and SAMOUEL, Phillip},
+  year={2005},
+  publisher={Porto Alegre: Bookman}
+}
+
+@article{Hameed2012,
+author = {Hameed, Mumtaz Abdul and Counsell, Steve and Swift, Stephen},
+doi = {10.1016/j.jengtecman.2012.03.007},
+issn = {0923-4748},
+journal = {Journal of Engineering and Technology Management},
+month = jul,
+number = {3},
+pages = {358--390},
+publisher = {Elsevier B.V.},
+title = {{A conceptual model for the process of IT innovation adoption in organizations}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0923474812000100},
+volume = {29},
+year = {2012}
+}
+
+@article{Hauge2007,
+address = {Boston},
+author = {Hauge, \O yvind and S\o rensen, CF and R\o sdal, Andreas},
+journal = {Open Source Development, Adoption and Innovation},
+pages = {259--264},
+publisher = {Springer},
+title = {{Surveying industrial roles in open source software development}},
+url = {http://link.springer.com/chapter/10.1007/978-0-387-72486-7\_25},
+volume = {234},
+year = {2007}
+}
+
+@article{Hauge2008,
+author = {Hauge, \O yvind and S\o rensen, Carl-fredrik and Conradi, Reidar},
+pages = {211--221},
+title = {{Adoption of Open Source in the Software Industry}},
+year = {2008}
+}
+
+@article{Hauge2010,
+author = {Hauge, \O yvind and Ayala, Claudia and Conradi, Reidar},
+doi = {10.1016/j.infsof.2010.05.008},
+issn = {09505849},
+journal = {Information and Software Technology},
+keywords = {open source software},
+month = nov,
+number = {11},
+pages = {1133--1154},
+title = {{Adoption of open source software in software-intensive organizations – A systematic literature review}},
+volume = {52},
+year = {2010}
+}
+
+@dissertation{Hauge2007Dissertation,
+author = {Hauge, \Oyvind},
+number = {September},
+pages = {245},
+school = {Norwegian University of Science and Technology},
+institution = {Norwegian University of Science and Technology},
+title = {{Open Source Software in Software Intensive Industry - A Survey}},
+type = {Disserta\c{c}\~{a}o (mestrado)},
+year = {2007}
+}
+
+@phdthesis{Hauge2010Thesis,
+author = {Hauge, \Oyvind},
+isbn = {9788247121122},
+pages = {278},
+school = {Norwegian University of Science and Technology},
+title = {{Adoption of Open Source Software in Software-Intensive Industry}},
+type = {Tese},
+year = {2010}
+}
+
+@article{Hecker1999,
+author = {Hecker, Frank},
+journal = {IEEE Software},
+number = {1},
+pages = {45--51},
+publisher = {IEEE},
+title = {{Setting Up Shop : The Business of Open-Source Software}},
+volume = {16},
+year = {1999}
+}
+
+@inproceedings{Holck2000,
+author = {Holck, Jesper and Pedersen, MK and Larsens, MH},
+booktitle = {European Conference on Information Systems},
+publisher = {AIS},
+title = {{Open source software acquisition: Beyond the business case}},
+url = {http://aisel.aisnet.org/ecis2005/128/},
+year = {2005}
+}
+
+@article{Host2011,
+author={H{\"o}st, Martin and Oru{\v{c}}evi{\'c}-Alagi{\'c}, Alma},
+doi = {10.1016/j.infsof.2010.12.009},
+journal = {Information and Software Technology},
+month = {jun},
+number = {6},
+pages = {616--624},
+title = {{A systematic review of research on open source software in commercial software product development}},
+volume = {53},
+year = {2011}
+}
+
+@article{Kitchenham2004,
+  title={{Procedures for performing systematic reviews}},
+  author={Kitchenham, Barbara},
+  journal={Keele, UK, Keele University},
+  volume={33},
+  year={2004}
+}
+
+@article{Kitchenham2009,
+author = {Kitchenham, Barbara and {Pearl Brereton}, O. and Budgen, David and Turner, Mark and Bailey, John and Linkman, Stephen},
+doi = {10.1016/j.infsof.2008.09.009},
+issn = {09505849},
+journal = {Information and Software Technology},
+month = jan,
+number = {1},
+pages = {7--15},
+publisher = {Elsevier B.V.},
+title = {{Systematic literature reviews in software engineering – A systematic literature review}},
+volume = {51},
+year = {2009}
+}
+
+@article{James2003,
+author = {James, J.},
+doi = {10.1177/016555150302900103},
+journal = {Journal of Information Science},
+month = feb,
+number = {1},
+pages = {25--33},
+title = {{Free software and the digital divide: opportunities and constraints for developing countries}},
+volume = {29},
+year = {2003}
+}
+
+@inproceedings{James2008,
+author = {James, Sean and Belle, Jean-Paul Van},
+booktitle = {Conference on Information Science Technology and Management},
+edition = {6th},
+pages = {15},
+title = {{Ensuring the Long-term sucess of OSS migration: A South African Exploratory Study}},
+year = {2008}
+}
+
+@inproceedings{Johnston2005,
+  title={Why South Africans don’t floss},
+  author={Johnston, KA and Seymour, L},
+  booktitle={Proceedings IBIMA, 2005 International Conference on Information Management in Modern Enterprise: Issues \& Solutions},
+  pages={438--436},
+  year={2005}
+}
+
+@article{Laszlo2007,
+  title={Issues and aspects of Open Source Software usage and adoption in the public sector},
+  author={Laszlo, Gabor},
+  journal={Handbook of Research on Open Source Software: Technological, Economic, and Social Perspectives, IGI Global, London},
+  pages={445--459},
+  year={2007}
+}
+
+@article{Lee2009,
+author = {Lee, One-ki Daniel and Wang, Mo Winnie and Lim, Kai H},
+journal = {International Journal of Global Information Management},
+number = {1},
+pages = {70--84},
+publisher = {Igi Global},
+title = {{Knowledge Management Systems Diffusion in Chinese Enterprises : A Multistage Approach Using Environment Framework}},
+volume = {17},
+year = {2009}
+}
+
+@incollection{Li2005,
+year={2005},
+isbn={978-3-540-26200-8},
+booktitle={Product Focused Software Process Improvement},
+volume={3547},
+series={Lecture Notes in Computer Science},
+editor={Bomarius, Frank and Komi-Sirviö, Seija},
+doi={10.1007/11497455_7},
+title={An Empirical Study on Off-the-Shelf Component Usage in Industrial Projects},
+url={http://dx.doi.org/10.1007/11497455_7},
+publisher={Springer Berlin Heidelberg},
+author={Li, Jingyue and Conradi, Reidar and Slyngstad, OddPetterN. and Bunse, Christian and Khan, Umair and Torchiano, Marco and Morisio, Maurizio},
+pages={54-68}
+}
+
+@article{Li2013,
+author = {Li, Jessica P and Chen, Rui and Lee, Jinkyu and Rao, H Raghav},
+doi = {10.1016/j.dss.2012.10.030},
+issn = {0167-9236},
+journal = {Decision Support Systems},
+number = {1},
+pages = {1--11},
+publisher = {Elsevier B.V.},
+title = {{A case study of private – public collaboration for humanitarian free and open source disaster management software deployment}},
+url = {http://dx.doi.org/10.1016/j.dss.2012.10.030},
+volume = {55},
+year = {2013}
+}
+
+@article{Lichand2008,
+address = {S\~{a}o Paulo},
+author = {Lichand, Guilherme Finkelfarb and Diniz, Eduardo H and Christopoulos, Tania Pereira},
+journal = {Revista de Gest\~{a}o USP},
+number = {1},
+pages = {99--113},
+publisher = {Universidade S\~{a}o Paulo},
+title = {{A catedral, o bazar e o condom\'{i}nio: Um ensaio sobre o modelo de neg\'{o}cio do software livre}},
+volume = {15},
+year = {2008}
+}
+
+@article{Linden2009,
+author = {Linden, Frank Van Der and Lundell, Bj\"{o}rn and Marttiin, Pentti},
+journal = {IEEE Software},
+pages = {77--83},
+title = {{Commodification of Industrial Software: a case for open source}},
+year = {2009}
+}
+
+@article{Lippert2006,
+  title={Technological, organizational, and environmental antecedents to web services adoption},
+  author={Lippert, Susan K and Govindarajulu, Chittibabu},
+  journal={Communications of the IIMA},
+  volume={6},
+  number={1},
+  pages={146--157},
+  year={2006}
+}
+
+@book{Malhotra2012,
+author = {Malhotra, Naresh K.},
+title = {Pesquisa de marketing: uma orientação aplicada},
+publisher = {Bookman},
+location = {Porto Alegre},
+isbn = {978-85-7780-975-2},
+edition={6ed.},
+pages={736},
+year={2012}
+}
+
+@article{Mata1995,
+author = {Mata, Francisco J. and Fuerst, William L. and Barney, Jay B.},
+journal = {MIS Quarterly},
+number = {December},
+pages = {487--506},
+title = {{Information Technology and Sustained Competitive Advantage : A Analysis IT and Competitive Advantage : Previous Literature}},
+year = {1995}
+}
+
+@article{May2006,
+author = {May, Christopher},
+doi = {10.1007/s12130-006-1008-4},
+issn = {0897-1986},
+journal = {Knowledge, Technology \& Policy},
+month = dec,
+number = {4},
+pages = {142--163},
+title = {{The FLOSS alternative: TRIPs, non-proprietary software and development}},
+volume = {18},
+year = {2006}
+}
+
+@book{miguel2012,
+  title={Metodologia de pesquisa em engenharia de produ{\c{c}}{\~a}o e gest{\~a}o de opera{\c{c}}{\~o}es},
+  author={Miguel, Paulo Augusto Cauchick},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Miranda2008,
+author = {de Miranda, Viviane Vieira and Vieira, Carlos Eduardo Costa and Carelli, Fl\'{a}vio Campos},
+file = {:C$\backslash$:/Users/Luciana/Desktop/FUMEC/Artigos/o uso de software livre no SERPRO.pdf:pdf},
+journal = {Cadernos UniFOA},
+number = {dezembro},
+pages = {11--20},
+publisher = {UniFOA},
+title = {{O uso de software livre no servi\c{c}o federal de processamento de dados (SERPRO)}},
+volume = {8},
+year = {2008}
+}
+
+@article{Miscione2010,
+author = {Miscione, Gianluca and Johnston, Kevin},
+doi = {10.1108/14779961011024800},
+issn = {1477-996X},
+journal = {Journal of Information, Communication and Ethics in Society},
+number = {1},
+pages = {42--56},
+publisher = {Emerald Group Publishing Limited},
+title = {{Free and Open Source Software in developing contexts: From open in principle to open in the consequences}},
+url = {http://www.emeraldinsight.com/10.1108/14779961011024800},
+volume = {8},
+year = {2010}
+}
+
+@article{Moresi2003,
+  title={Metodologia da pesquisa},
+  author={Moresi, Eduardo},
+  journal={Universidade Cat{\'o}lica de Bras{\'\i}lia},
+  year={2003}
+}
+
+@article{Morgan2010,
+author = {Morgan, Lorraine and Finnegan, Patrick},
+doi = {10.1145/1719051.1719056},
+issn = {0095-0033},
+journal = {ACM SIGMIS Database},
+number = {1},
+pages = {76--95},
+publisher = {ACM},
+title = {{Open innovation in secondary software firms: an exploration of managers' perceptions of open source software}},
+volume = {41},
+year = {2010}
+}
+
+@article{Mount2011,
+title = {{Adoption of free and open source software within high-velocity firms}},
+author = {Mount, Matthew Paul and Fernandes, Kiran Jude},
+year = {2011},
+volume = {32},
+number = {3},
+pages = {231--246},
+journal = {Behaviour & Information Technology},
+issn = {0144-929X},
+}
+
+@MasterThesis{Moolman2011,
+author = {Moolman, Lafras},
+institution = {University of Stellenbosch},
+school = {University of Stellenbosch},
+pages = {62},
+title = {{A characterisation of Open Source Software adoption decisions in South African organisations}},
+type = {Disserta\c{c}\~{a}o (mestrado)},
+year = {2011}
+}
+
+@dissertation{Nauta2011,
+author = {Nauta, Sjoerd},
+pages = {88},
+institution = {Delft University of Technology},
+school = {Delft University of Technology},
+title = {{Investigating Project Complexity at NXP Semiconductors B.V. An exploratory study based on the TOE framework}},
+year = {2011},
+type = {Disserta\c{c}\~{a}o (mestrado)},
+}
+
+@article{Oliveira2010,
+author = {Oliveira, Tiago and Martins, Maria Fraga O.},
+doi = {10.1108/02635571011087428},
+issn = {0263-5577},
+journal = {Industrial Management \& Data Systems},
+number = {9},
+pages = {1337--1354},
+title = {{Understanding e-business adoption across industries in European countries}},
+volume = {110},
+year = {2010}
+}
+
+@article{Oliveira2011,
+author = {Oliveira, Tiago and Martins, Maria Fraga O.},
+issn = {1566-6379},
+journal = {The Electronic Journal Information Systems \ldots},
+number = {1},
+pages = {110--121},
+publisher = {Academic Publishing International Ltd},
+title = {{Literature review of information technology adoption models at firm level}},
+volume = {14},
+year = {2011}
+}
+
+@article{Oliveira2010Firms,
+author = {Oliveira, Tiago and Martins, Maria Fraga O.},
+issn = {1566-6379},
+journal = {The Electronic Journal Information Systems Evaluation},
+number = {1},
+pages = {47--56},
+publisher = {Academic Conferences Ltd},
+title = {{Firms Patterns of e-Business Adoption : Evidence for the European Union-27}},
+volume = {13},
+year = {2010}
+}
+
+@misc{OSI,
+author={OSI},
+subtitle={Open Source Iniciative},
+title={{Open Source Case for Business}},
+url = {http://opensource.org/advocacy/case_for_business.php},
+year = {2013}
+}
+
+@incollection{Przechlewski2010,
+year={2010},
+isbn={978-0-387-84809-9},
+booktitle={Information Systems Development},
+editor={Papadopoulos, George Angelos and Wojtkowski, Wita and Wojtkowski, Gregory and Wrycza, Stanislaw and Zupancic, Jože},
+doi={10.1007/b137171_48},
+title={Determinants of Open Source Software Adoption – An Application of TOE Framework},
+url={http://dx.doi.org/10.1007/b137171_48},
+publisher={Springer US},
+keywords={Open source software; Software adoption; Statistical survey},
+author={Przechlewski, Tomasz and Strzala, Krystyna},
+pages={461--469}
+}
+
+@book{Raymond1999,
+author = {Raymond, Eric Steven},
+title = {{The Magic Cauldron}},
+url = {http://www.catb.org/esr/writings/magic-cauldron},
+year = {1999}
+}
+
+@inproceedings{Rose2006,
+address = {Chandigarh, India},
+author = {Rose, Marcel and Johnston, Kevin and {Van Belle}, Jean-Paul},
+booktitle = {Proceedings of the Conference of Information Science Technology and Management},
+pages = {14},
+title = {{Barriers and Enablers of OSS-on-the-Desktop Adoption}},
+year = {2006}
+}
+
+@MasterThesis{Rosdal2006,
+  title={A Survey of Industrial Involvement in Open Source},
+  author={R{\o}sdal, Andreas},
+  year={2006},
+  school={Norwegian University of Science and Technology}
+}
+
+@article{Rusovan2005,
+  title={Open source software development: future or fad?},
+  author={Rusovan, Srdjan and Lawford, Mark and Parnas, David Lorge},
+  journal={Perspectives on Free and Open Source Software},
+  pages={107--122},
+  year={2005},
+  publisher={MIT Press, Cambridge, MA}
+}
+
+@dissertation{Saleh2004,
+author = {Saleh, Almir Mostafa},
+pages = {149},
+school = {Universidade de S\~{a}o Paulo},
+title = {{Ado\c{c}\~{a}o de tecnologia: um estudo sobre o uso de software livre nas empresas}},
+year = {2004},
+type = {Disserta\c{c}\~{a}o(Mestrado)}
+}
+
+@article{Spinellis2004,
+author = {Spinellis, D. and Szyperski, C.},
+doi = {10.1109/MS.2004.1259204},
+issn = {0740-7459},
+journal = {IEEE Software},
+month = jan,
+number = {1},
+pages = {28--33},
+title = {{How is open source affecting software development?}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1259204},
+volume = {21},
+year = {2004}
+}
+
+@article{Spinellis2012,
+annote = {Novel approaches in the design and implementation of systems/software architecture },
+author = {Spinellis, Diomidis and Giannikas, Vaggelis},
+doi = {10.1016/j.jss.2011.09.037},
+issn = {0164-1212},
+journal = {The Journal of Systems and Software},
+keywords = {Industrial practice,Open source software,Technology adoption},
+number = {3},
+pages = {666--682},
+title = {{Organizational adoption of open source software}},
+url = {http://www.sciencedirect.com/science/article/pii/S0164121211002512},
+volume = {85},
+year = {2012}
+}
+
+@inproceedings{softex2005artigo,
+address = {Salvador/BA},
+author = {da Silva, Ana Maria Alves Carneiro and Mattos, Caroline Vaghetti and Colugnati, Fernando Antonio Basile and Veiga, Rog\'{e}rio},
+booktitle = {XI Semin\'{a}rio Latino-Iberoamericano de Gestion Tecnologica},
+edition = {XI},
+keywords = {compet\^{e}ncias,ind\'{u}stria de software,linux,software livre},
+pages = {1--14},
+title = {{Pesquisa Impacto do Software Livre e de C\'{o}digo Aberto (SL/CA) na Ind\'{u}stria de Software do Brasil : compet\^{e}ncias em SL / CA no Brasil}},
+year = {2005}
+}
+
+@misc{softex2005,
+  title={O Impacto do Software Livre de C{\'o}digo Aberto na Ind{\'u}stria de Software do Brasil},
+  author={Softex},
+  pages={80},
+  year={2005}
+}
+
+@misc{Softex2013,
+ title={TIC Brasileira: IBSS em nível regional},
+ author={Softex},
+ year={2013},
+ url={http://www.softex.br/ti-brasileira/}
+}
+
+@incollection{Stallman1999,
+author = {Stallman, Richard},
+booktitle = {Open Sources: Voices from the Open Source Revolution},
+edition = {1},
+pages = {280},
+publisher = {O'Reilly \& Associates Inc},
+title = {{The GNU Operating System and the Free Software Movement}},
+url = {http://oreilly.com/openbook/opensources/book/stallman.html},
+year = {1999}
+}
+
+@article{Staples2007,
+author = {Staples, Mark and Niazi, Mahmood},
+doi = {10.1016/j.jss.2006.09.046},
+issn = {01641212},
+journal = {Journal of Systems and Software},
+keywords = {empirical software engineering,systematic review},
+month = sep,
+number = {9},
+pages = {1425--1437},
+title = {{Experiences using systematic review guidelines}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0164121206002962},
+volume = {80},
+year = {2007}
+}
+
+@article{Tait2004,
+author = {Tait, M\'{a}rcia},
+journal = {Revista eletr\^{o}nica de jornalismo cient\'{\i}fico},
+publisher = {Labjor/Unicamp},
+title = {{Mercado de software cresce na periferia}},
+url = {http://www.comciencia.br/200406/reportagens/03.shtml},
+volume = {55},
+year = {2004}
+}
+
+@book{Taurion2004,
+author = {Taurion, Cezar},
+year = {2004},
+title = {{Software livre: potencialidades e modelos de negócio}},
+publisher={Brasport},
+address={Rio de Janeiro}
+}
+
+@book{Taurion,
+author = {Taurion, Cezar},
+pages = {1--170},
+year = {2011},
+title = {{Open Source Software: evolu\c{c}\~{a}o e tend\^{e}ncias}},
+url = {http://www.smashwords.com/books/view/48905}
+}
+
+@inproceedings{Theunissen2004,
+author = {Theunissen, W H M and Boake, A and Kourie, D G},
+booktitle = {Proceedings of the Southern African Telecommunication Networks and Applications Conference},
+keywords = {Ado\c{c}\~{a}o de OSS em organiza\c{c}\~{o}es,Ado\c{c}\~{a}o de OSS por desenvolvedores,corporate adoption,open source software,software development,telecommunication,telecomunica\c{c}\~{o}es},
+title = {{A preliminary investigation of the impact of open source software on telecommunication software development}},
+year = {2004}
+}
+
+@book{Tornatzky1990,
+  title={The processes of technological innovation},
+  author={TORNATZKY, L.G.A. and FLEISCHER, M.A. and Chakrabarti, A.K.},
+  isbn={9780669203486},
+  lccn={89029695},
+  series={Issues in organization and management series},
+  year={1990},
+  publisher={Lexington Books}
+}
+
+@article{Venkatesh1996,
+author = {Venkatesh, Viswanath and Davis, Fred D.},
+doi = {10.1111/j.1540-5915.1996.tb01822.x},
+issn = {0011-7315},
+journal = {Decision Sciences},
+month = sep,
+number = {3},
+pages = {451--481},
+publisher = {ABI/INFORM Global},
+title = {{A Model of the Antecedents of Perceived Ease of Use: Development and Test}},
+url = {http://doi.wiley.com/10.1111/j.1540-5915.1996.tb01822.x},
+volume = {27},
+year = {1996}
+}
+
+@inproceedings{Yamakami2010,
+author = {Yamakami, Toshihiko},
+booktitle = {Information Sciences and Interaction Sciences (ICIS)},
+edition = {3th},
+organization = {IEEE},
+pages = {531--535},
+publisher = {IEEE},
+title = {{Open source software adoption patterns and organizational transition stages for software vendors}},
+year = {2010}
+}
+
+@article{Yoon2013,
+author = {Yoon, Tom E. and George, Joey F.},
+doi = {10.1016/j.chb.2012.12.003},
+issn = {07475632},
+journal = {Computers in Human Behavior},
+month = may,
+number = {3},
+pages = {772--790},
+publisher = {Elsevier},
+title = {{Why aren’t organizations adopting virtual worlds?}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0747563212003329},
+volume = {29},
+year = {2013}
+}
+
+@article{Wang2010,
+author = {Wang, Yu-Min and Wang, Yi-Shun and Yang, Yong-Fu},
+doi = {10.1016/j.techfore.2010.03.006},
+file = {:C$\backslash$:/Users/Luciana/Desktop/FUMEC/Artigos/Wang-2010-Understanding the determinants of rfid adoption in the manufacturing industry.pdf:pdf},
+issn = {00401625},
+journal = {Technological Forecasting and Social Change},
+keywords = {cation,environment,organization,radio frequency identi fi,technology},
+mendeley-groups = {Modelos de Aceita\c{c}\~{a}o de Tecnologia},
+month = jun,
+number = {5},
+pages = {803--815},
+publisher = {Elsevier Inc.},
+title = {{Understanding the determinants of RFID adoption in the manufacturing industry}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0040162510000582},
+volume = {77},
+year = {2010}
+}
+
+@article{West2003,
+author = {West, Joel},
+doi = {10.1016/S0048-7333(03)00052-0},
+isbn = {1408924706},
+issn = {0048-7333},
+journal = {Research Policy},
+month = jul,
+number = {7},
+pages = {1259--1285},
+title = {{How open is open enough?}},
+url = {http://linkinghub.elsevier.com/retrieve/pii/S0048733303000520},
+volume = {32},
+year = {2003}
+}
+
+@inproceedings{West2005,
+address = {Irvine, California},
+author = {West, Joel and Dedrick, Jason and Place, Berkeley},
+booktitle = {Social Informatics Workshop: Extending the Contributions of Professor Rob Kling to the Analysis of Computerization Movements},
+isbn = {1408924706},
+pages = {1--30},
+title = {{The effect of computerization movements upon organizational adoption of open source}},
+year = {2005}
+}
+
+@techreport{Wichmann2002,
+address = {Berlin, Germany},
+author = {Wichmann, Thorsten},
+institution = {Berlecon Research},
+number = {July},
+pages = {1--64},
+title = {{Use of open source software in firms and public institutions evidence from Germany, Sweden and UK}},
+year = {2002}
+}
+
+@article{Zhu2005,
+author = {Zhu, Kevin and Kraemer, Kenneth L.},
+doi = {10.1287/isre.1050.0045},
+issn = {1047-7047},
+journal = {Information Systems Research},
+month = mar,
+number = {1},
+pages = {61--84},
+title = {{Post-Adoption Variations in Usage and Value of E-Business by Organizations: Cross-Country Evidence from the Retail Industry}},
+url = {http://isr.journal.informs.org/cgi/doi/10.1287/isre.1050.0045},
+volume = {16},
+year = {2005}
+}
+
+@article{Zhu2006,
+author = {Zhu, Kevin and Kraemer, Kenneth L. and Xu, Sean},
+doi = {10.1287/mnsc.1050.0487},
+issn = {0025-1909},
+journal = {Management Science},
+month = oct,
+number = {10},
+pages = {1557--1576},
+title = {{The Process of Innovation Assimilation by Firms in Different Countries: A Technology Diffusion Perspective on E-Business}},
+url = {http://mansci.journal.informs.org/cgi/doi/10.1287/mnsc.1050.0487},
+volume = {52},
+year = {2006}
+}
+
+@article{Zhu2011,
+author = {Zhu, K. X. and Zhou, Z. Z.},
+doi = {10.1287/isre.1110.0358},
+issn = {1047-7047},
+journal = {Information Systems Research},
+month = jun,
+number = {2},
+pages = {536--545},
+publisher = {INFORMS: Institute for Operations Research},
+title = {{Lock-In Strategy in Software Competition: Open-Source Software vs. Proprietary Software}},
+url = {http://isr.journal.informs.org/cgi/doi/10.1287/isre.1110.0358},
+volume = {23},
+year = {2011}
+}
+
+@inproceedings{Ziemer2008,
+author = {Ziemer, Sven and Hauge, \O yvind and \O sterlie, Thomas and Lindman, Juho},
+booktitle = {IEEE International Conference on Signal Image Technology and Internet Based Systems},
+doi = {10.1109/SITIS.2008.99},
+edition = {2008},
+isbn = {978-0-7695-3493-0},
+month = nov,
+number = {7491},
+pages = {539--546},
+publisher = {IEEE},
+title = {{Understanding Open Source in an Industrial Context}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4725852},
+year = {2008}
+}
+

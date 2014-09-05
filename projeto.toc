@@ -1,0 +1,15 @@
+\changetocdepth {3}
+\select@language {brazil}
+\contentsline {chapter}{\chapternumberline {1}introducao}{9}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Metodologia}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Segundo os objetivos}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Segundo as fontes}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Segundo os procedimentos}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Segundo a forma de abordagem}{12}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Referencial Te\IeC {\'o}rico}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Engenharia de Sistemas}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}O que \IeC {\'e} MBSE?}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Exemplos de aplica\IeC {\c c}\IeC {\~a}o da MBSE na ind\IeC {\'u}stria}{13}{section.3.3}
+\contentsline {section}{\numberline {3.4}Identifica\IeC {\c c}\IeC {\~a}o de padr\IeC {\~o}es}{14}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Conclus\IeC {\~a}o}{15}{chapter.4}
+\contentsline {chapter}{Refer\^encias}{17}{section*.5}
