@@ -1,15 +1,19 @@
 \changetocdepth {3}
 \select@language {brazil}
 \contentsline {chapter}{\chapternumberline {1}introducao}{9}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Metodologia}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Segundo os objetivos}{11}{section.2.1}
-\contentsline {section}{\numberline {2.2}Segundo as fontes}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}Segundo os procedimentos}{11}{section.2.3}
-\contentsline {section}{\numberline {2.4}Segundo a forma de abordagem}{12}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Referencial Te\IeC {\'o}rico}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Engenharia de Sistemas}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}O que \IeC {\'e} MBSE?}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Exemplos de aplica\IeC {\c c}\IeC {\~a}o da MBSE na ind\IeC {\'u}stria}{13}{section.3.3}
-\contentsline {section}{\numberline {3.4}Identifica\IeC {\c c}\IeC {\~a}o de padr\IeC {\~o}es}{14}{section.3.4}
+\contentsline {chapter}{\chapternumberline {2}Referencial Te\IeC {\'o}rico}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Gerenciamento de Processos}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}BPMN}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}BPMS}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Cloud Computing}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}Amazon Web Services}{11}{section.2.5}
+\contentsline {section}{\numberline {2.6}Amazon Simple Workflow Framework}{11}{section.2.6}
+\contentsline {section}{\numberline {2.7}Estudo de caso}{11}{section.2.7}
+\contentsline {section}{\numberline {2.8}Prot\IeC {\'o}tipo}{11}{section.2.8}
+\contentsline {chapter}{\chapternumberline {3}Metodologia}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Segundo os objetivos}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Segundo as fontes}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Segundo os procedimentos}{13}{section.3.3}
+\contentsline {section}{\numberline {3.4}Segundo a forma de abordagem}{14}{section.3.4}
 \contentsline {chapter}{\chapternumberline {4}Conclus\IeC {\~a}o}{15}{chapter.4}
 \contentsline {chapter}{Refer\^encias}{17}{section*.5}

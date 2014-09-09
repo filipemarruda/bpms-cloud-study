@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.1)  5 SEP 2014 08:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.1)  9 SEP 2014 02:08
 entering extended mode
 **projeto.tex
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\projeto.tex
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\projeto.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -1169,7 +1169,7 @@ Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nom@tempdim=\dimen190
 \nomitemsep=\skip329
 )
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\fumec.sty)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\fumec.sty)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\abntex2\abntex2cite.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\abntex2\abntex2abrev.sty")
 \minimumbiblabelwidth=\skip330
@@ -1192,11 +1192,12 @@ Package color Info: Redefining color blue on input line 151.
 Package hyperref Info: Option `colorlinks' set `true' on input line 168.
 \projeto@idxfile=\write5
 Writing index file projeto.idx 
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\projeto.aux
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\introducao.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\metodologia.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\referencial-teorico.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\conclusao.aux))
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\projeto.aux
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\introducao.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\referencial-teori
+co.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\metodologia.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\conclusao.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 191.
 LaTeX Font Info:    ... okay on input line 191.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 191.
@@ -1319,48 +1320,45 @@ l.212
 ] [5] [6
 
 ]
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\projeto.toc) [7] [8
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\projeto.toc)
+[7] [8
 
 ]
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\introducao.tex
-
-Package hyperref Warning: Suppressing empty link on input line 8.
-
-
-Package hyperref Warning: Suppressing empty link on input line 16.
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\introducao.tex)
+[9
 
 
-Package hyperref Warning: Suppressing empty link on input line 20.
-
-) [9
-
-
-] (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\metodologia.tex [10
+]
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\referencial-teori
+co.tex [10
 
 
 
 ]
-[11]) [12]
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\referencial-teorico.tex
 
-Package hyperref Warning: Suppressing empty link on input line 8.
+Package hyperref Warning: Suppressing empty link on input line 30.
 
 
-Package hyperref Warning: Suppressing empty link on input line 10.
+Package hyperref Warning: Suppressing empty link on input line 32.
+
+[11]
+
+Package hyperref Warning: Suppressing empty link on input line 39.
+
+) [12]
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\metodologia.tex
+[13
 
 
-Package hyperref Warning: Suppressing empty link on input line 18.
 
-) [13
-
-
-
-] [14] (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\conclusao.tex)
+]) [14]
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\conclusao.tex)
 [15
 
 
 
-] (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\projeto.bbl [16
+] (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\projeto.bbl
+[16
 
 
 ]
@@ -1373,11 +1371,12 @@ AED: lastpage setting LastPage
 \tf@toc=\write6
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
- (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\projeto.aux
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\introducao.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\metodologia.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\referencial-teorico.aux)
-(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\tcc\conclusao.aux))
+ (C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\projeto.aux
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\introducao.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\referencial-teori
+co.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\metodologia.aux)
+(C:\Users\filip_000\Dropbox\Public\Fumec\TCC\bpms-cloud-study\conclusao.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 342.
 
@@ -1387,10 +1386,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
  ) 
 Here is how much of TeX's memory you used:
- 17365 strings out of 493921
- 290888 string characters out of 3144864
+ 17372 strings out of 493921
+ 291425 string characters out of 3144864
  401056 words of memory out of 3000000
- 20314 multiletter control sequences out of 15000+200000
+ 20317 multiletter control sequences out of 15000+200000
  55981 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  49i,12n,37p,10441b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1404,9 +1403,9 @@ mr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/public/lm/lmssbx10.pfb>
-Output written on projeto.pdf (19 pages, 233353 bytes).
+Output written on projeto.pdf (19 pages, 236215 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 157 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 269 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
