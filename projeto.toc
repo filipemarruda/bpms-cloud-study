@@ -1,19 +1,31 @@
-\changetocdepth {3}
+\changetocdepth {4}
 \select@language {brazil}
-\contentsline {chapter}{\chapternumberline {1}introducao}{9}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Referencial Te\IeC {\'o}rico}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Gerenciamento de Processos}{11}{section.2.1}
-\contentsline {section}{\numberline {2.2}BPMN}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}BPMS}{11}{section.2.3}
-\contentsline {section}{\numberline {2.4}Cloud Computing}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}Amazon Web Services}{11}{section.2.5}
-\contentsline {section}{\numberline {2.6}Amazon Simple Workflow Framework}{11}{section.2.6}
-\contentsline {section}{\numberline {2.7}Estudo de caso}{11}{section.2.7}
-\contentsline {section}{\numberline {2.8}Prot\IeC {\'o}tipo}{11}{section.2.8}
-\contentsline {chapter}{\chapternumberline {3}Metodologia}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Segundo os objetivos}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Segundo as fontes}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Segundo os procedimentos}{13}{section.3.3}
-\contentsline {section}{\numberline {3.4}Segundo a forma de abordagem}{14}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Conclus\IeC {\~a}o}{15}{chapter.4}
-\contentsline {chapter}{Refer\^encias}{17}{section*.5}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{9}{chapter*.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Referencial Te\IeC {\'o}rico}}{11}{chapter.1}
+\contentsline {section}{\numberline {1.1}Gerenciamento de Processos}{11}{section.1.1}
+\contentsline {section}{\numberline {1.2}BPMN}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}BPMS}{11}{section.1.3}
+\contentsline {section}{\numberline {1.4}Cloud Computing}{11}{section.1.4}
+\contentsline {section}{\numberline {1.5}Amazon Web Services}{11}{section.1.5}
+\contentsline {section}{\numberline {1.6}Amazon Simple Workflow Framework}{11}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Estrutura da aplica\IeC {\c c}\IeC {\~a}o}{11}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Workflow Starter}{12}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Workflow Worker}{12}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Activities Worker}{12}{subsection.1.6.4}
+\contentsline {section}{\numberline {1.7}Estudo de caso}{12}{section.1.7}
+\contentsline {section}{\numberline {1.8}Prot\IeC {\'o}tipo}{12}{section.1.8}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Metodologia}}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Segundo os objetivos}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Segundo as fontes}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3}Segundo os procedimentos}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4}Segundo a forma de abordagem}{14}{section.2.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~a}o}}{15}{chapter.3}
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Refer\^encias}{17}{section*.6}

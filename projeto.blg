@@ -1,21 +1,16 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: projeto.aux
 A level-1 auxiliary file: introducao.aux
-A level-1 auxiliary file: metodologia.aux
 A level-1 auxiliary file: referencial-teorico.aux
+A level-1 auxiliary file: metodologia.aux
 A level-1 auxiliary file: conclusao.aux
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: referencias.bib
-I was expecting a `,' or a `}'---line 18 of file referencias.bib
- :  
- :  author = {SE^2 MBSE Challenge Team},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--campo title vazio em IEEE61012
 Warning--campo title vazio em IEEE1471
 +---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.8           |
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.2           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-(There was 1 error message)
+(There were 2 warnings)

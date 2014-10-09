@@ -3,7 +3,7 @@
 \setlength{\labelsep}{0pt}\begin{thebibliography}{}
 \providecommand{\abntrefinfo}[3]{}
 \providecommand{\abntbstabout}[1]{}
-\abntbstabout{v-1.8 }
+\abntbstabout{v-1.9.2 }
 
 \bibitem[Gerhart 2009]{TatianaEng}
 \abntrefinfo{Gerhart}{GERHART}{2009}
@@ -32,7 +32,6 @@ n.~1471.}
 \bibitem[UFMG]{EngSisUFMG}
 \abntrefinfo{UFMG}{UFMG}{}
 {UFMG. Site de engeharia de sistemas da ufmg: O que é engenharia de sistemas?
-Dispon{\'\i}vel em:
-  \htmladdnormallink{$<$http:\-/\-/sistemas\-.eng\-.ufmg\-.br\-/sistemas\-.php$>$}{http://sistemas.eng.ufmg.br/sistemas.php}.}
+Dispon{\'\i}vel em: \url{http://sistemas.eng.ufmg.br/sistemas.php}.}
 
 \end{thebibliography}
